@@ -22,7 +22,7 @@ function App() {
       <h1 align='center'><strong><em>Offer valid till 12 a.m</em></strong></h1>
       
       <hr />
-      <p align='center'><strong>Are you guys ready?</strong></p>
+      <p align='center'><strong>Are you guys ready??</strong></p>
     </div>
   );
 }
