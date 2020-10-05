@@ -19,7 +19,7 @@ function App() {
 
       <Dinner dishName='Mutton Karahi' sweetName='Gajjar ka Halwa'/>
       <p>Grab the Deal for just <strong><em>Rs.900 Olny</em></strong>.</p>
-      <h1 align='center'><strong><em>Offer valid till 12 a.m</em></strong></h1>
+      <h1 align='center'><strong><em>Offer valid till 12 p.m</em></strong></h1>
       
       <hr />
      </div>
